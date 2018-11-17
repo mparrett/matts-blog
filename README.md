@@ -1,6 +1,6 @@
 ## Hi, I'm Matt 
 
-This is my blog. I write about interesting things you might also find interesting. 
+I write about interesting things you might also find interesting. 
 
 Take a look around and enjoy your stay.
 
@@ -8,14 +8,11 @@ Take a look around and enjoy your stay.
 
 Here are some suggestions:
 
-Post A
-Post B
-Post C
+ - Bewildering Post A
+ - Perplexing Post B
+ - Inspiring Post C
 
 ### Inspiration
 
-Inspired in part by [Brain Pickings](https://www.brainpickings.org).
+ - [Brain Pickings](https://www.brainpickings.org).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
