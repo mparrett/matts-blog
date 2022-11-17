@@ -6,3 +6,6 @@ I am a software engineer with 12 years of experience developing at scale. Let's 
 
  - [Brain Pickings](https://www.brainpickings.org).
 
+### Resources
+
+- [Resume](assets/pdf/Matt_Parrett_SSWE_Resume_2022_Nov.pdf)
